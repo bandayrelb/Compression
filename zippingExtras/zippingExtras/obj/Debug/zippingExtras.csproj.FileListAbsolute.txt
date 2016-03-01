@@ -1,0 +1,3 @@
+H:\GameToolsPipelines\zippingExtras\zippingExtras\bin\Debug\zippingExtras.exe.config
+E:\AIStuff\GameToolsPipelines\zippingExtras\zippingExtras\bin\Debug\zippingExtras.exe.config
+F:\AIStuff\GameToolsPipelines\zippingExtras\zippingExtras\bin\Debug\zippingExtras.exe.config
